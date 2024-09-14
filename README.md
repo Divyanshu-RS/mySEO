@@ -92,7 +92,7 @@ Step 4: Utilize Official Debuggers and Resources
 Step 5: SEO Enhancement
 - Once the meta tags are added, the website's SEO is improved. It becomes more visible in search engines, ranks higher, and appears unique when shared on social media platforms.
 
-License
+## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. You are free to use this project for personal or commercial purposes, but any modifications, redistribution, or contributions require prior written permission from the owner.
 
 
