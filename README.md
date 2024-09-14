@@ -47,15 +47,18 @@ mySEO is a comprehensive platform designed to enhance the Search Engine Optimiza
 The platform is built with modern technologies to ensure reliability, scalability, and user-friendliness.
 <br>
 1. Frontend:
+
 - React.js: The entire front-end is developed using React.js. React ensures fast rendering, dynamic user interfaces, and efficient state management.
 - Next.js: This framework is used to handle the server-side rendering (SSR) and static site generation (SSG). Next.js ensures better SEO performance by allowing search engines to crawl the fully rendered HTML.
 - Styled Components: For seamless, reusable, and scoped styling within components. It helps create consistent designs across pages and keeps the CSS modular.
 <br>
 2. DevOps and Deployment:
+  
 - Vercel: The platform is hosted on Vercel, which provides continuous integration, easy deployment, and serverless hosting functionality. Vercel ensures that the site performs well globally due to its edge network and fast CDN (Content Delivery Network).
 - GitHub Actions: Automated CI/CD pipelines handle testing and deployment, ensuring any new updates or fixes are seamlessly deployed without downtime.
 <br>
 3. Additional Libraries and Tools:
+  
 - Axios: For handling HTTP requests and communication efficiently.
 - Lighthouse: Used internally to measure site performance, accessibility, SEO, and best practices.
 - React-Query (Optional): Manages data fetching and caching, improving the overall performance of data handling.
@@ -63,12 +66,15 @@ The platform is built with modern technologies to ensure reliability, scalabilit
 ## How It Works
 
 Step 1: Enter the Website URL
+
 - Users begin by entering the URL of their website or a page they want to optimize for SEO.
 <br>
 Step 2: Add SEO-Related Details
+
 - Users provide necessary SEO details like the website description, images, author name, and website name. These details help generate accurate meta tags for better search engine visibility and social media sharing.
 <br>
 Step 3: Meta Tag Generation
+
 - Based on the provided information, the platform automatically generates the relevant HTML head meta tags.
 - Users can then copy these meta tags and place them directly into their website's HTML <head> section to improve SEO.
 <br>
