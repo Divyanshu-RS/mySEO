@@ -1,8 +1,8 @@
 # mySEO - Meta tags for best SEO
 <br>
-<a href="https://my-seo.vercel.app/">Live Website</a>
+## <a href="https://my-seo.vercel.app/">Live Website</a>
 <br>
-<p align="center"><img src="https://github.com/Divyanshu-RS/mySEO/blob/main/mySEO/webimage.png?raw=true"/></p>
+<p align="center"><img src="https://github.com/Divyanshu-RS/mySEO/blob/main/mySEO/webimage.png?raw=true" width="500"/></p>
 
 mySEO is a comprehensive platform designed to enhance the Search Engine Optimization (SEO) of websites. The platform analyzes various SEO-related aspects of a website and provides recommendations to improve its ranking and visibility on search engines like Google, Bing, etc. This platform offers actionable insights for website owners, helping them boost their site's discoverability and performance in search engine results.
 
