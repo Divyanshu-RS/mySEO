@@ -650,7 +650,7 @@
           N = k[0],
           z = k[1],
           C = (0, o.useState)(
-            "https://github.com/Divyanshu-RS/mySEO/blob/main/webimage.png?raw=true"
+            "https://github.com/Divyanshu-RS/mySEO/blob/main/mySEO/webimage.png?raw=true"
           ),
           E = C[0],
           M = C[1],
@@ -810,7 +810,7 @@
                                               ).value
                                             )
                                           : M(
-                                              "https://github.com/Divyanshu-RS/mySEO/blob/main/webimage.png?raw=true"
+                                              "https://github.com/Divyanshu-RS/mySEO/blob/main/mySEO/webimage.png?raw=true"
                                             )) &
                                         r.editData(e.target.value, "imgUrl")
                                       );
@@ -1589,7 +1589,7 @@
                 (0, s.jsx)("meta", {
                   property: "og:image",
                   content:
-                    "https://github.com/Divyanshu-RS/mySEO/blob/main/webimage.png?raw=true",
+                    "https://github.com/Divyanshu-RS/mySEO/blob/main/mySEO/webimage.png?raw=true",
                 }),
                 (0, s.jsx)("meta", {
                   property: "twitter:card",
@@ -1611,7 +1611,7 @@
                 (0, s.jsx)("meta", {
                   property: "twitter:image",
                   content:
-                    "https://github.com/Divyanshu-RS/mySEO/blob/main/webimage.png?raw=true",
+                    "https://github.com/Divyanshu-RS/mySEO/blob/main/mySEO/webimage.png?raw=true",
                 }),
                 (0, s.jsx)("script", {
                   async: !0,
