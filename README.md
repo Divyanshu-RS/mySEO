@@ -1,6 +1,6 @@
 # mySEO - Meta tags for best SEO
 <br>
-## <a href="https://my-seo.vercel.app/">Live Website</a>
+<a href="https://my-seo.vercel.app/">Live Website</a>
 <br>
 <p align="center"><img src="https://github.com/Divyanshu-RS/mySEO/blob/main/mySEO/webimage.png?raw=true" width="500"/></p>
 
