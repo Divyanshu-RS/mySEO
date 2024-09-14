@@ -1,4 +1,4 @@
-mySEO - Meta tags for best SEO
+# mySEO - Meta tags for best SEO
 <br>
 <a href="https://my-seo.vercel.app/">Live Website</a>
 
@@ -59,3 +59,31 @@ The platform is built with modern technologies to ensure reliability, scalabilit
 - Axios: For handling HTTP requests and communication efficiently.
 - Lighthouse: Used internally to measure site performance, accessibility, SEO, and best practices.
 - React-Query (Optional): Manages data fetching and caching, improving the overall performance of data handling.
+
+## How It Works
+Step 1: Enter the Website URL
+- Users begin by entering the URL of their website or a page they want to optimize for SEO.
+
+Step 2: Add SEO-Related Details
+- Users provide necessary SEO details like the website description, images, author name, and website name. These details help generate accurate meta tags for better search engine visibility and social media sharing.
+
+Step 3: Meta Tag Generation
+- Based on the provided information, the platform automatically generates the relevant HTML head meta tags.
+- Users can then copy these meta tags and place them directly into their website's HTML <head> section to improve SEO.
+
+Step 4: Utilize Official Debuggers and Resources
+
+- After integrating the meta tags into the website, users can take advantage of tools such as:
+    - Facebook Debugger
+    - Twitter Card Validator
+    - LinkedIn Post Inspector
+    - Google Structured Data Testing Tool
+- These tools help ensure that the meta tags are correctly set up and functioning across various platforms.
+- 
+<--Additionally, mySEO offers a wealth of resources:
+List of all important Meta Tags
+Google SEO Starter Guide
+SEO Wikipedia Page-->
+
+Step 5: SEO Enhancement
+- Once the meta tags are added, the website's SEO is improved. It becomes more visible in search engines, ranks higher, and appears unique when shared on social media platforms.
