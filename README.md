@@ -63,7 +63,7 @@ The platform is built with modern technologies to ensure reliability, scalabilit
   
 - Axios: For handling HTTP requests and communication efficiently.
 - Lighthouse: Used internally to measure site performance, accessibility, SEO, and best practices.
-- React-Query (Optional): Manages data fetching and caching, improving the overall performance of data handling.
+- React-Query: Manages data fetching and caching, improving the overall performance of data handling.
 
 ## How It Works
 
